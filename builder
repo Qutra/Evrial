@@ -1,2 +1,2 @@
-<protection id=\"anti tamper\" />\r\n
-<protection id=\"anti dump\" />\r\n
+<protection id="anti tamper"/>
+<protection id="anti dump"/>
